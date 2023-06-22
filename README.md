@@ -13,10 +13,10 @@ Build static websites using GitHub issues, GitHub Actions, and Vitepress without
 6. 新建issue，打上deploy标签后，等待约3分钟，即可在首页看到github-pages入口
 
 ## 用法二
-此方法可以多次使用，但需要使用git操作完成仓库的初始化。
+此方法可以多次使用，但需要使用shell操作完成仓库的初始化。
 
 1. 新建一个仓库，例如`luoway/new-repo`，拉取到本地
-2. 执行以下git操作
+2. 执行以下shell操作
     ```shell
     git clone https://github.com/luoway/vitepress-issues-page.git
     mv ./vitepress-issues-page/.* ./vitepress-issues-page/* .

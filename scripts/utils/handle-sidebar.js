@@ -94,6 +94,7 @@ function update(issueData, labels, acceptLabels){
             }
         }
         if(!found){
+            console.log('push')
             list.push(genItem(issueData))
         }
     }

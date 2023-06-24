@@ -89,11 +89,13 @@ function update(issueData, labels, acceptLabels){
             const currentNum = parseInt(item.link.slice(1))
             if(currentNum >= number){
                 found = true
+                console.log(found, currentNum, number, parseInt(currentNum === number))
                 list.splice(i, parseInt(currentNum === number), genItem(issueData))
                 break
             }
         }
         if(!found){
+            console.log('push')
             list.push(genItem(issueData))
         }
     }

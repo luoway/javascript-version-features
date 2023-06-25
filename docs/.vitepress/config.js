@@ -21,4 +21,7 @@ export default defineConfig({
             label: '简体中文'
         },
     },
+    markdown: {
+        theme: 'github-dark-dimmed',
+    }
 })

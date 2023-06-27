@@ -4,7 +4,7 @@ import sidebar from './sidebar'
 console.log('sidebar: ', sidebar)
 
 export default defineConfig({
-    title: 'Vitepress-issues-page',
+    title: 'JavaScript版本特性',
     themeConfig: {
         socialLinks: [
           { icon: 'github', link: githubLink },

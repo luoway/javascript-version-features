@@ -1,1 +1,1 @@
-export default [{"text":"ES6","link":"/1"},{"text":"ES2016","link":"/2"},{"text":"ES2017","link":"/3"},{"text":"ES2018","link":"/4"},{"text":"ES2019","link":"/5"},{"text":"ES2020","link":"/6"},{"text":"ES2021","link":"/7"},{"text":"ES2022","link":"/8"}]
+export default [{"text":"ES6","link":"/1"},{"text":"ES2016","link":"/2"},{"text":"ES2017","link":"/3"},{"text":"ES2018","link":"/4"},{"text":"ES2019","link":"/5"},{"text":"ES2020","link":"/6"},{"text":"ES2021","link":"/7"},{"text":"ES2022","link":"/8"},{"text":"ES2023","link":"/9"}]
